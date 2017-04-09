@@ -15,6 +15,8 @@
 - [Java Scanner](http://www.baeldung.com/java-scanner)
 - [Java Timer](http://www.baeldung.com/java-timer-and-timertask)
 - [Java – Byte Array to Writer](http://www.baeldung.com/java-convert-byte-array-to-writer)
+- [Java - Random Long, Float, Integer and Double](http://www.baeldung.com/java-generate-random-long-float-integer-double)
+- [Java - Generate Random String](http://www.baeldung.com/java-random-string)
 - [How to Run a Shell Command in Java](http://www.baeldung.com/run-shell-command-in-java)
 - [MD5 Hashing in Java](http://www.baeldung.com/java-md5)
 - [Guide to the Java ArrayList](http://www.baeldung.com/java-arraylist)
@@ -86,4 +88,5 @@
 - [Java Primitive Conversions](http://www.baeldung.com/java-primitive-conversions)
 - [Java Money and the Currency API](http://www.baeldung.com/java-money-and-currency)
 - [Guide to Java 8 Comparator.comparing()](http://www.baeldung.com/java-8-comparator-comparing)
-
+- [Removing all nulls from a List in Java](http://www.baeldung.com/java-remove-nulls-from-list)
+- [Removing all duplicates from a List in Java](http://www.baeldung.com/java-remove-duplicates-from-list)
